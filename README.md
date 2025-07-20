@@ -283,18 +283,5 @@ docker-compose -f docker-compose.prod.yml up -d
 - CI/CD pipeline setup
 - Cloud deployment
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 **Happy Traveling! 🌍✈️**
